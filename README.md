@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2551-apply-operations-to-an-array](https://github.com/ishan1603/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ishan1603/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/ishan1603/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/ishan1603/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/ishan1603/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
